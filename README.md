@@ -1,4 +1,4 @@
-# Keylogger Project (Ethical & Educational)
+# Keylogger Project!
 
 ## Overview
 
