@@ -2,7 +2,7 @@
 
 ## Overview
 
-This Python script captures keyboard input and logs it to a file (`keylog.txt`) in real-time!.
+This Python script captures keyboard input and logs it to a file  called (`keylog.txt`) in real-time!.
 
 ## Technologies
 
