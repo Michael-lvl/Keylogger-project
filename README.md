@@ -38,9 +38,3 @@ This Python script captures keyboard input and logs it to a file  called (`keylo
    ```bash
    cat keylog.txt
    ```
-
-## Disclaimer
-
-This project is for "educational and ethical use only.
-It runs only with user consent and stores logs locally.
-Do not deploy this on any system you do not own or have permission to test.
